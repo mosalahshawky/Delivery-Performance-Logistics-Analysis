@@ -61,3 +61,6 @@ SQL queries → Data cleaning and analysis
 
 Key Takeaway:
 This project demonstrates how combining SQL and Power BI can transform raw operational data into clear insights and actionable business decisions.
+
+Sourse of data:
+https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset
