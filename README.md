@@ -325,5 +325,7 @@ This is a portfolio project in my transition from finance and accounting (10+ ye
 Currently based in Magdeburg, Germany, pursuing a Master's in Entrepreneurship & Innovation Management and seeking junior data analyst opportunities.
 
 📧 **Contact:** mosalahshawky@gmail.com
+
 💼 **LinkedIn:** [linkedin.com/in/mohamed-s-shawky](https://www.linkedin.com/in/mohamed-s-shawky/)
+
 🌐 **Portfolio:** [github.com/mosalahshawky](https://github.com/mosalahshawky)
